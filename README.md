@@ -1,2 +1,2 @@
-# projeto-ecoleta
+# Projeto-ecoleta
  Evento NLW
